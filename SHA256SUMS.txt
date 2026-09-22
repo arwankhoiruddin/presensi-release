@@ -1,0 +1,2 @@
+53ddf5791b4b335e956284b9416bc6a936eb3f943d29ac1163b6c8b9d7c15e76  Presensi-1.0.4-android-unsigned.apk
+8e91909b01cf6ab272c805cab288abca28ea25c349297d404c994fd6216a5dbe  presensi.exe
